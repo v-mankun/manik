@@ -1,2 +1,2 @@
 first file in git
-new changes
+new changes as modified
